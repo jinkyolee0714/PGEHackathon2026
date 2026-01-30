@@ -4,4 +4,4 @@ import numpy as np
 print("Hello Hackathon 👋")
 print("Python version:", sys.version)
 print("NumPy version:", np.__version__)
-print("Sum test:", np.sum([1, 2, 3, 4]))
+print("Sum test:", np.sum([1, 2, 3, 4, 5]))
